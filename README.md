@@ -31,7 +31,8 @@ The tutorials can also be run in a remote environment via
 containing Jupyter notebooks on a remote machine. To access the tutorials in
 this fashion, simple click the following button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lompabo/ai4eu-tutorial-python/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lompabo/linear-models-in-ml/HEAD)
+
 
 When you click the link, the Binder system will spawn a Docker container
 running a Jupyter server, configure an environment for the tutorial, and allow
